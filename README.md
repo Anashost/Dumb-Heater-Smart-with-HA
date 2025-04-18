@@ -32,7 +32,7 @@ climate:
 climate:
   - platform: generic_thermostat
     name: Bath Thermostat
-    heater: switch.plug_4_local
+    heater: switch.plug_5_local
     target_sensor: sensor.bath_temperature
     min_temp: 55
     max_temp: 85
